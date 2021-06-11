@@ -39,7 +39,7 @@ Please note that the solutions are in Python 3.
 
 | Subdomain     | Difficulty | Score  |             Challenge                   |           Solution    |
 | :---          | :----:     | :----: |             :----:                      |               ---:    |
-| Introduction  | Easy       |   5    | [Say "Hello, World!" With Python][py1]  |   [Solution][apy1]   |
+| Introduction  | Easy       |   5    | [Say "Hello, World!" With Python][py1]  |   [Solution][apy1]    |
 
 [py1]: https://www.hackerrank.com/challenges/py-hello-world/problem
 [apy1]: Python\hello-world.py
