@@ -6,7 +6,7 @@
 
 # HackerRank Solutions
 This repository contains solutions to problems in Hackerrank. I made this to stay consistent to learn. I hope this helps you too if you're having trouble solving it.
-Sometimes my solutions aren't the best one, so I'll add solutions made by other people as well as their contributors.
+Sometimes my solutions aren't the best one, so I'll add solutions made by other people as well as the coders.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ynw99/HackerrankSolutions?logo=Github&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ynw99/HackerrankSolutions?color=%23117A65&style=plastic)
