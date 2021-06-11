@@ -21,11 +21,11 @@ Currently, the topics that I have completed include:
 ## SQL
 Please note that the solutions are in MySQL.
 
-| Subdomain     | Difficulty | Score  |             Challenge               |           Solution    |
-| :---          | :----:     | :----: |             :----:                  |               ---:    |
-| Basic Select  | Easy       |   10   | [Revising the Select Query I][sql1] |   [Solution][asql1]   |
-| Basic Select  | Easy       |   10   | [Revising the Select Query II][sql2]|   [Solution][asql2]   |
-| Basic Select  | Easy       |   10   | [Select All][sql3]                  |   [Solution][asql3]   |
+|   Number  | Subdomain     | Difficulty | Score  |             Challenge               |           Solution    |
+|   :---    | :----:        | :----:     | :----: |             :----:                  |               ---:    |
+|     1     | Basic Select  | Easy       |   10   | [Revising the Select Query I][sql1] |   [Solution][asql1]   |
+|     2     | Basic Select  | Easy       |   10   | [Revising the Select Query II][sql2]|   [Solution][asql2]   |
+|     3     | Basic Select  | Easy       |   10   | [Select All][sql3]                  |   [Solution][asql3]   |
 
 [sql1]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 [sql2]: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
@@ -37,9 +37,9 @@ Please note that the solutions are in MySQL.
 ## Python
 Please note that the solutions are in Python 3.
 
-| Subdomain     | Difficulty | Score  |             Challenge                   |           Solution    |
-| :---          | :----:     | :----: |             :----:                      |               ---:    |
-| Introduction  | Easy       |   5    | [Say "Hello, World!" With Python][py1]  |   [Solution][apy1]    |
+|   Number  | Subdomain     | Difficulty | Score  |             Challenge                   |           Solution    |
+|   :---    | :---          | :----:     | :----: |             :----:                      |               ---:    |
+|     1     | Introduction  | Easy       |   5    | [Say "Hello, World!" With Python][py1]  |   [Solution][apy1]    |
 
 [py1]: https://www.hackerrank.com/challenges/py-hello-world/problem
 [apy1]: Python\1.%20Introduction\hello-world.py
