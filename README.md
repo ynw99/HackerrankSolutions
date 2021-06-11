@@ -21,8 +21,8 @@ Please note that the solutions are in MySQL.
 
 | Subdomain     | Difficulty | Score  |             Challenge               |           Solution    |
 | :---          | :----:     | :----: |             :----:                  |               ---:    |
-| Basic Select  | Easy       |   10 I | [Revising the Select Query I][sql1] |   [Solution][asql1]   |
-| Basic Select  | Easy       |   10 I | [Revising the Select Query II][sql2]|   [Solution][asql2]   |
+| Basic Select  | Easy       |   10   | [Revising the Select Query I][sql1] |   [Solution][asql1]   |
+| Basic Select  | Easy       |   10   | [Revising the Select Query II][sql2]|   [Solution][asql2]   |
 | Basic Select  | Easy       |   10   | [Select All][sql3]                  |   [Solution][asql3]   |
 
 [sql1]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
