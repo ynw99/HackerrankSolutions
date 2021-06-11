@@ -6,11 +6,13 @@
 
 # HackerRank Solutions
 This is repository contains solutions to problems in Hackerrank. I made this to stay consistent to learn. I hope this helps you too if you're having trouble solving it.
-Sometimes my solution isn't the most efficient, so I'll add solutions made by other people as well as their creators.
+Sometimes my solutions aren't the best one, so I'll add solutions made by other people as well as their contributors.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ynw99/HackerrankSolutions?logo=Github&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ynw99/HackerrankSolutions?color=%23117A65&style=plastic)
+[![Visits Badge](https://badges.pufler.dev/visits/ynw99/HackerrankSolutions?label=visits&color=cyan&style=plastic)](https://badges.pufler.dev)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ynw99/HackerrankSolutions?color=gold&label=repo%20stars&style=plastic)
+
 # Topics
 Currently, the topics that I have completed include:
 - [SQL](#SQL)
