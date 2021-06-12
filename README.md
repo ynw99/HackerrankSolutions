@@ -31,6 +31,7 @@ Please note that the solutions are in `MySQL`.
 |     4     | Basic Select  | Easy       |   10   | [Select By ID][sql4]                |   [Solution][asql4]   |
 |     5     | Basic Select  | Easy       |   10   | [Japanese Cities' Attributes][sql5] |   [Solution][asql5]   |
 |     6     | Basic Select  | Easy       |   10   | [Japanese Cities' Names][sql6]      |   [Solution][asql6]   |
+|     7     | Basic Select  | Easy       |   10   | [Weather Observation Station 1][sql7]      |   [Solution][asql7]   |
 
 [sql1]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 [sql2]: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
@@ -38,12 +39,15 @@ Please note that the solutions are in `MySQL`.
 [sql4]: https://www.hackerrank.com/challenges/select-by-id/problem
 [sql5]: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
 [sql6]: https://www.hackerrank.com/challenges/japanese-cities-name/problem
+[sql7]: https://www.hackerrank.com/challenges/weather-observation-station-1/problem
 [asql1]: SQL/1.%20Basic%20Select/revising-the-select-query-I.sql
 [asql2]: SQL/1.%20Basic%20Select/revising-the-select-query-II.sql
 [asql3]: SQL/1.%20Basic%20Select/select-all.sql
 [asql4]: SQL/1.%20Basic%20Select/select-by-id.sql
 [asql5]: SQL/1.%20Basic%20Select/Japanese-cities'-attributes.sql
 [asql6]: SQL/1.%20Basic%20Select/Japanese-cities'-names.sql
+[asql7]: "./SQL/1. Basic Select/weather-observation-station-1.sql"
+
 ## Python
 Please note that the solutions are in `Python 3`.
 
