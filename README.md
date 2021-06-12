@@ -8,6 +8,8 @@
 This repository contains solutions to problems in Hackerrank. I made this to stay consistent to learn. I hope this helps you too if you're having trouble solving it.
 Sometimes my solutions aren't the best one, so I'll add solutions made by other people as well as the coders.
 
+If you find any of my solutions is wrong, don't hesitate to contact me :)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/ynw99/HackerrankSolutions?logo=Github&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ynw99/HackerrankSolutions?color=%23117A65&style=plastic)
 [![Visits Badge](https://badges.pufler.dev/visits/ynw99/HackerrankSolutions?label=visits&color=cyan&style=plastic)](https://badges.pufler.dev)
@@ -26,14 +28,19 @@ Please note that the solutions are in MySQL.
 |     1     | Basic Select  | Easy       |   10   | [Revising the Select Query I][sql1] |   [Solution][asql1]   |
 |     2     | Basic Select  | Easy       |   10   | [Revising the Select Query II][sql2]|   [Solution][asql2]   |
 |     3     | Basic Select  | Easy       |   10   | [Select All][sql3]                  |   [Solution][asql3]   |
+|     4     | Basic Select  | Easy       |   10   | [Select By ID][sql4]                |   [Solution][asql4]   |
+|     5     | Basic Select  | Easy       |   10   | [Japanese Cities' Attributes][sql5] |   [Solution][asql5]   |
 
 [sql1]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 [sql2]: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
 [sql3]: https://www.hackerrank.com/challenges/select-all-sql/problem
+[sql4]: https://www.hackerrank.com/challenges/select-by-id/problem
+[sql5]: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
 [asql1]: SQL\1.%20Basic%20Select\revising-the-select-query-I.sql
 [asql2]: SQL\1.%20Basic%20Select\revising-the-select-query-II.sql
 [asql3]: SQL\1.%20Basic%20Select\select-all.sql
-
+[asql4]: SQL\1.%20Basic%20Select\select-by-id.sql
+[asql5]: SQL\1.%20Basic%20Select\Japanese-cities'-attributes.sql
 ## Python
 Please note that the solutions are in Python 3.
 
