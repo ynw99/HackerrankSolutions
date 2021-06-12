@@ -21,7 +21,7 @@ Currently, the topics that I have completed include:
 - [Python](#Python)
 # Problems Done
 ## SQL
-Please note that the solutions are in MySQL.
+Please note that the solutions are in `MySQL`.
 
 |   Number  | Subdomain     | Difficulty | Score  |             Challenge               |           Solution    |
 |   :---    | :----:        | :----:     | :----: |             :----:                  |               ---:    |
@@ -30,19 +30,22 @@ Please note that the solutions are in MySQL.
 |     3     | Basic Select  | Easy       |   10   | [Select All][sql3]                  |   [Solution][asql3]   |
 |     4     | Basic Select  | Easy       |   10   | [Select By ID][sql4]                |   [Solution][asql4]   |
 |     5     | Basic Select  | Easy       |   10   | [Japanese Cities' Attributes][sql5] |   [Solution][asql5]   |
+|     6     | Basic Select  | Easy       |   10   | [Japanese Cities' Names][sql6]      |   [Solution][asql6]   |
 
 [sql1]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 [sql2]: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
 [sql3]: https://www.hackerrank.com/challenges/select-all-sql/problem
 [sql4]: https://www.hackerrank.com/challenges/select-by-id/problem
 [sql5]: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+[sql6]: https://www.hackerrank.com/challenges/japanese-cities-name/problem
 [asql1]: SQL/1.%20Basic%20Select/revising-the-select-query-I.sql
 [asql2]: SQL/1.%20Basic%20Select/revising-the-select-query-II.sql
 [asql3]: SQL/1.%20Basic%20Select/select-all.sql
 [asql4]: SQL/1.%20Basic%20Select/select-by-id.sql
 [asql5]: SQL/1.%20Basic%20Select/Japanese-cities'-attributes.sql
+[asql6]: SQL/1.%20Basic%20Select/Japanese-cities'-names.sql
 ## Python
-Please note that the solutions are in Python 3.
+Please note that the solutions are in `Python 3`.
 
 |   Number  | Subdomain     | Difficulty | Score  |             Challenge                   |           Solution    |
 |   :---    | :---          | :----:     | :----: |             :----:                      |               ---:    |
