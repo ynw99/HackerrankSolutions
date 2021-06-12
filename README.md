@@ -36,11 +36,11 @@ Please note that the solutions are in MySQL.
 [sql3]: https://www.hackerrank.com/challenges/select-all-sql/problem
 [sql4]: https://www.hackerrank.com/challenges/select-by-id/problem
 [sql5]: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
-[asql1]: SQL\1.%20Basic%20Select\revising-the-select-query-I.sql
-[asql2]: SQL\1.%20Basic%20Select\revising-the-select-query-II.sql
-[asql3]: SQL\1.%20Basic%20Select\select-all.sql
-[asql4]: SQL\1.%20Basic%20Select\select-by-id.sql
-[asql5]: SQL\1.%20Basic%20Select\Japanese-cities'-attributes.sql
+[asql1]: SQL/1.%20Basic%20Select/revising-the-select-query-I.sql
+[asql2]: SQL/1.%20Basic%20Select/revising-the-select-query-II.sql
+[asql3]: SQL/1.%20Basic%20Select/select-all.sql
+[asql4]: SQL/1.%20Basic%20Select/select-by-id.sql
+[asql5]: SQL/1.%20Basic%20Select/Japanese-cities'-attributes.sql
 ## Python
 Please note that the solutions are in Python 3.
 
@@ -49,4 +49,4 @@ Please note that the solutions are in Python 3.
 |     1     | Introduction  | Easy       |   5    | [Say "Hello, World!" With Python][py1]  |   [Solution][apy1]    |
 
 [py1]: https://www.hackerrank.com/challenges/py-hello-world/problem
-[apy1]: Python\1.%20Introduction\hello-world.py
+[apy1]: Python/1.%20Introduction/hello-world.py
