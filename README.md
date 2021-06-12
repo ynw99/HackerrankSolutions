@@ -23,15 +23,15 @@ Currently, the topics that I have completed include:
 ## SQL
 Please note that the solutions are in `MySQL`.
 
-|   Number  | Subdomain     | Difficulty | Score  |             Challenge               |           Solution    |
-|   :---    | :----:        | :----:     | :----: |             :----:                  |               ---:    |
-|     1     | Basic Select  | Easy       |   10   | [Revising the Select Query I][sql1] |   [Solution][asql1]   |
-|     2     | Basic Select  | Easy       |   10   | [Revising the Select Query II][sql2]|   [Solution][asql2]   |
-|     3     | Basic Select  | Easy       |   10   | [Select All][sql3]                  |   [Solution][asql3]   |
-|     4     | Basic Select  | Easy       |   10   | [Select By ID][sql4]                |   [Solution][asql4]   |
-|     5     | Basic Select  | Easy       |   10   | [Japanese Cities' Attributes][sql5] |   [Solution][asql5]   |
-|     6     | Basic Select  | Easy       |   10   | [Japanese Cities' Names][sql6]      |   [Solution][asql6]   |
-|     7     | Basic Select  | Easy       |   10   | [Weather Observation Station 1][sql7]      |   [Solution][asql7]   |
+|   Number  | Subdomain     | Difficulty | Score  |             Challenge                   |           Solution    |
+|   :---    | :----:        | :----:     | :----: |             :----:                      |               ---:    |
+|     1     | Basic Select  | Easy       |   10   | [Revising the Select Query I][sql1]     |   [Solution][asql1]   |
+|     2     | Basic Select  | Easy       |   10   | [Revising the Select Query II][sql2]    |   [Solution][asql2]   |
+|     3     | Basic Select  | Easy       |   10   | [Select All][sql3]                      |   [Solution][asql3]   |
+|     4     | Basic Select  | Easy       |   10   | [Select By ID][sql4]                    |   [Solution][asql4]   |
+|     5     | Basic Select  | Easy       |   10   | [Japanese Cities' Attributes][sql5]     |   [Solution][asql5]   |
+|     6     | Basic Select  | Easy       |   10   | [Japanese Cities' Names][sql6]          |   [Solution][asql6]   |
+|     7     | Basic Select  | Easy       |   10   | [Weather Observation Station 1][sql7]   |   [Solution][asql7]   |
 
 [sql1]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 [sql2]: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
@@ -46,7 +46,7 @@ Please note that the solutions are in `MySQL`.
 [asql4]: SQL/1.%20Basic%20Select/select-by-id.sql
 [asql5]: SQL/1.%20Basic%20Select/Japanese-cities'-attributes.sql
 [asql6]: SQL/1.%20Basic%20Select/Japanese-cities'-names.sql
-[asql7]: "./SQL/1.%20Basic%20Select/weather-observation-station-1.sql"
+[asql7]: SQL/1.%20Basic%20Select/weather-observation-station-1.sql
 
 ## Python
 Please note that the solutions are in `Python 3`.
