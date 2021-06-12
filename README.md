@@ -46,7 +46,7 @@ Please note that the solutions are in `MySQL`.
 [asql4]: SQL/1.%20Basic%20Select/select-by-id.sql
 [asql5]: SQL/1.%20Basic%20Select/Japanese-cities'-attributes.sql
 [asql6]: SQL/1.%20Basic%20Select/Japanese-cities'-names.sql
-[asql7]: "./SQL/1. Basic Select/weather-observation-station-1.sql"
+[asql7]: "./SQL/1.%20Basic%20Select/weather-observation-station-1.sql"
 
 ## Python
 Please note that the solutions are in `Python 3`.
