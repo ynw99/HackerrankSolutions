@@ -42,6 +42,9 @@ Please note that the solutions are in `MySQL`.
 |     15    | Basic Select  | Easy       |   10   | [Weather Observation Station 10][sql15] |   [Solution][asql15]  |
 |     16    | Basic Select  | Easy       |   15   | [Weather Observation Station 11][sql16] |   [Solution][asql16]  |
 |     17    | Basic Select  | Easy       |   15   | [Weather Observation Station 12][sql17] |   [Solution][asql17]  |
+|     18    | Basic Select  | Easy       |   15   | [Higher Than 75 Marks][sql18]           |   [Solution][asql18]  |
+|     19    | Basic Select  | Easy       |   10   | [Employee Names][sql19]                 |   [Solution][asql19]  |
+|     20    | Basic Select  | Easy       |   10   | [Employee Salaries][sql20]              |   [Solution][asql20]  |
 
 [sql1]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 [asql1]: SQL/1.%20Basic%20Select/revising-the-select-query-I.sql
@@ -77,6 +80,12 @@ Please note that the solutions are in `MySQL`.
 [asql16]: SQL/1.%20Basic%20Select/weather-observation-station-11.sql
 [sql17]: https://www.hackerrank.com/challenges/weather-observation-station-12/problem
 [asql17]: SQL/1.%20Basic%20Select/weather-observation-station-12.sql
+[sql18]: https://www.hackerrank.com/challenges/more-than-75-marks/problem
+[asql18]: SQL/1.%20Basic%20Select/more-than-75-marks.sql
+[sql19]: https://www.hackerrank.com/challenges/name-of-employees/problem
+[asql19]: SQL/1.%20Basic%20Select/name-of-employees.sql
+[sql20]: https://www.hackerrank.com/challenges/salary-of-employees/problem
+[asql20]: SQL/1.%20Basic%20Select/salary-of-employees.sql
 ## Python
 Please note that the solutions are in `Python 3`.
 
