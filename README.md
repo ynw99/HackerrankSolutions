@@ -37,6 +37,11 @@ Please note that the solutions are in `MySQL`.
 |     10    | Basic Select  | Easy       |   30   | [Weather Observation Station 5][sql10]  |   [Solution][asql10]  |
 |     11    | Basic Select  | Easy       |   10   | [Weather Observation Station 6][sql11]  |   [Solution][asql11]  |
 |     12    | Basic Select  | Easy       |   10   | [Weather Observation Station 7][sql12]  |   [Solution][asql12]  |
+|     13    | Basic Select  | Easy       |   15   | [Weather Observation Station 8][sql13]  |   [Solution][asql13]  |
+|     14    | Basic Select  | Easy       |   10   | [Weather Observation Station 9][sql14]  |   [Solution][asql14]  |
+|     15    | Basic Select  | Easy       |   10   | [Weather Observation Station 10][sql15] |   [Solution][asql15]  |
+|     16    | Basic Select  | Easy       |   15   | [Weather Observation Station 11][sql16] |   [Solution][asql16]  |
+|     17    | Basic Select  | Easy       |   15   | [Weather Observation Station 12][sql17] |   [Solution][asql17]  |
 
 [sql1]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 [asql1]: SQL/1.%20Basic%20Select/revising-the-select-query-I.sql
@@ -62,6 +67,16 @@ Please note that the solutions are in `MySQL`.
 [asql11]: SQL/1.%20Basic%20Select/weather-observation-station-6.sql
 [sql12]: https://www.hackerrank.com/challenges/weather-observation-station-7/problem
 [asql12]: SQL/1.%20Basic%20Select/weather-observation-station-7.sql
+[sql13]: https://www.hackerrank.com/challenges/weather-observation-station-8/problem
+[asql13]: SQL/1.%20Basic%20Select/weather-observation-station-8.sql
+[sql14]: https://www.hackerrank.com/challenges/weather-observation-station-9/problem
+[asql14]: SQL/1.%20Basic%20Select/weather-observation-station-9.sql
+[sql15]: https://www.hackerrank.com/challenges/weather-observation-station-10/problem
+[asql15]: SQL/1.%20Basic%20Select/weather-observation-station-10.sql
+[sql16]: https://www.hackerrank.com/challenges/weather-observation-station-11/problem
+[asql16]: SQL/1.%20Basic%20Select/weather-observation-station-11.sql
+[sql17]: https://www.hackerrank.com/challenges/weather-observation-station-12/problem
+[asql17]: SQL/1.%20Basic%20Select/weather-observation-station-12.sql
 ## Python
 Please note that the solutions are in `Python 3`.
 
